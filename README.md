@@ -1,1 +1,2 @@
 # gyl
+böngészőből javítottam
